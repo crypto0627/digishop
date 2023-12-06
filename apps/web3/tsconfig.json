@@ -25,7 +25,8 @@
     "paths": {
       "@/*": [
         "./src/*"
-      ]
+      ],
+      "react": [ "./node_modules/@types/react" ]
     },
     "forceConsistentCasingInFileNames": true
   },
